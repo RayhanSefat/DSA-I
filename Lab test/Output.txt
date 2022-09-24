@@ -1,0 +1,4 @@
+Enter the number of elements: 
+Enter the elements: 
+Enter p & r: 
+The sorted array: 
