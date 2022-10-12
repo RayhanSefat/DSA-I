@@ -2,8 +2,7 @@
 #include<stdlib.h>
 #define MAX_TREE_HT 150
 
-struct node
-{
+struct node{
     char data;
     int freq;
     struct node* left1;
